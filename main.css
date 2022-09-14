@@ -1,31 +1,49 @@
-*
-{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
 
-
-header{
-    height: 100px;
-    background-color: rgba(0, 0, 0, 0.712);
-    
-
-
+header {
+  height: 125px;
+  background-color: rgba(0, 0, 0, 0.712);
 }
 
 .head {
-    margin: 0px 50px 20px 50px;
-    padding-top: 15px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: rgba(255, 255, 255, 0.74);
+  width: 20%;
+  margin: 0px 50px 20px 50px;
+  padding-top: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: rgba(255, 255, 255, 0.74);
 }
 
-
 .topnav {
-    background-color: black;
-    font-size: larger;
-    color: white;
-    float: right;
-    margin: 0px 50px 20px 50px;
+  font-family: "Times New Roman", Times, serif;
+  background-color: black;
+  margin: -60px 250px 250px 250px;
+  padding: 20px 10px 20px 10px;
+  font-size: larger;
+  color: rgba(255, 255, 255, 0.74);
+  float: right;
+}
+
+.element1 {
+  padding: 10px 10px 10px 15px;
+}
+
+.element2 {
+  padding: 10px 10px 10px 15px;
+}
+
+.element3 {
+  padding: 10px 10px 10px 15px;
+}
+
+.element4 {
+  padding: 10px 10px 10px 15px;
+}
+
+.element5 {
+  padding: 10px 10px 10px 15px;
 }
