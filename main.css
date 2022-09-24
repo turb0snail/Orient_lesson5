@@ -7,3 +7,60 @@
 body {
   background-color: whitesmoke;
 }
+
+header {
+  height: 100px;
+  background-color: rgb(51, 51, 51);
+  padding: 20px;
+}
+
+.container {
+  width: 60%;
+  height: 100%;
+  margin: 0px auto;
+}
+
+header .head-logo {
+  float: left;
+  color: white;
+}
+
+header nav {
+  float: right;
+}
+
+header ul {
+  list-style: none;
+}
+
+header ul li {
+  float: left;
+  line-height: 60px;
+  background-color: black;
+  padding: 0px 15px;
+}
+
+header ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+#blogs article {
+  width: calc(100% / 3);
+  float: left;
+  padding: 10px 20px;
+  margin-top: 50px;
+}
+
+#blogs article .blg-img {
+  background: black;
+  border-style: solid white;
+  color: white;
+  float: left;
+  padding: 40px 30px;
+  margin-right: 20px;
+}
+
+#blogs article h2 {
+  margin-bottom: 10px;
+}
